@@ -1,0 +1,6 @@
+umare deepankar 10001 Student
+vikash sah 10002 Student
+riya roy 10010 Student
+vijit saxena 10003 Student
+suraj barfa 10004 Student
+neha gupta 10008 Student
