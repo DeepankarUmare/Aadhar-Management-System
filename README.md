@@ -10,4 +10,4 @@ Implemented using:
 
 * Binary Search Tree
 			
-![screenshot](Aadhar-Management-System/Screenshot (132).png )	
+![screenshot](Screenshot (132).png)	
